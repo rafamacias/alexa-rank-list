@@ -1,0 +1,40 @@
+{
+  "name": "alexa-rank-list",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rafa Macias",
+    "url": "https://www.rafamacias.com"
+  },
+  "description": "",
+  "files": [
+    "index.mjs",
+    "lib",
+    "bin"
+  ],
+  "main": "index.mjs",
+  "bin": {
+    "alexarank": "./bin/alexarank"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafamacias/alexa-rank-list"
+  },
+  "keywords": [
+    "alexa",
+    "api",
+    "traffic",
+    "rank"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafamacias/alexa-rank-list/issues"
+  },
+  "dependencies": {
+    "exceljs": "^1.6.2",
+    "fast-xml-parser": "^3.12.5",
+    "node-fetch": "^2.2.0"
+  }
+}
