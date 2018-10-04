@@ -63,5 +63,6 @@ typings/
 .DS_Store
 
 sample2.xlsx
+sample*.xlsx
 new.xlsx
 ~$*.xlsx
