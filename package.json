@@ -33,8 +33,11 @@
     "url": "https://github.com/rafamacias/alexa-rank-list/issues"
   },
   "dependencies": {
+    "csv": "^4.0.0",
     "exceljs": "^1.6.2",
+    "fast-csv": "^2.4.1",
     "fast-xml-parser": "^3.12.5",
+    "lineReader": "^0.1.2",
     "node-fetch": "^2.2.0"
   }
 }
