@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": {
     "name": "Rafa Macias",
-    "url": "https://www.rafamacias.com"
+    "url": "https://rafamacias.com"
   },
   "description": "",
   "files": [
@@ -24,9 +24,11 @@
   },
   "keywords": [
     "alexa",
+    "rank",
     "api",
     "traffic",
-    "rank"
+    "csv",
+    "excel"
   ],
   "license": "MIT",
   "bugs": {
@@ -37,7 +39,6 @@
     "exceljs": "^1.6.2",
     "fast-csv": "^2.4.1",
     "fast-xml-parser": "^3.12.5",
-    "lineReader": "^0.1.2",
     "node-fetch": "^2.2.0"
   }
 }
