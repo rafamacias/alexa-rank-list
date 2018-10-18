@@ -1,7 +1,7 @@
 export default {
-    inputFile: 'data/in/companiesWithDomainNoAlexa.csv',         // Mandatory
-    column: {
-        domain: 'Company Domain Name', 
+    inputFile: 'data/in/sample.csv',         // Mandatory
+    headers: {
+        domain: ['Company Domain Name','Website URL','Name'], 
         globalRank: 'Company Website Global Alexa Rank',
         localRank: 'Company Website Local Alexa Rank',
         country: 'Country',
