@@ -40,6 +40,6 @@
     "fast-csv": "^2.4.1",
     "fast-xml-parser": "^3.12.5",
     "node-fetch": "^2.2.0",
-    "url-exists": "^1.0.3"
+    "url-exists-deep": "^1.1.1"
   }
 }
